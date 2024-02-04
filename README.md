@@ -1,1 +1,2 @@
 # RANDOM-KEY-ENCRYPTION-USING-ONE-TIME-PAD-IN-PYTHON
+This Python script provides a basic encryption and decryption tool using a one-time pad approach. It employs a set of characters to represent the alphabet, digits, and special symbols. The program generates a random key for each encryption, ensuring secure one-time usage. Users can input a message, receive the encrypted result, and then decrypt it using the generated key. T
